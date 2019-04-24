@@ -15,9 +15,9 @@ Time: Monday 22 April 2019 (Afternoon)
 * ~~Choose one task. Each task is worth [25 marks].~~
 * ~~The maximum mark for this examination paper is [25 marks].~~
 
-完成以下目标，写 250-400 字。中英文皆可。
+完成以下目标，写 250-400 字。中/英/日文皆可。
 
-Complete the following tasks. Write 250 to 400 words. English or Chinese.
+Complete the following tasks. Write 250 to 400 words. English, Chinese or Japanese.
 
 5. 科学与技术
 
