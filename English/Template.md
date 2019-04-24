@@ -1,22 +1,11 @@
-# DMCA Takedown Notice
+> ## 5. Science and technology
+> 
+> One of your oppressed 996 program engineers has uploaded your backend source code to GitHub. Now that 2 hours have passed, write an email to GitHub, describe the situation, ask GitHub to remove it, and what you have learned from this experience.
+> 
+> Start writing your takedown notice by modifing this file. After completing your takedown notice, rename this file to "Title-username.md", then submit a pull request!
+> 
+> (Remove this after completion)
 
-Hello GitHub, 
+# Title
 
-We are the team from [bilibili](https://www.bilibili.com/) company. A repository hosted on your site is infringing on copyrights owned by our company.
-
-Two hours ago, our company's backend source code was maliciously uploaded to a repository named 'openbilibili/go-common' without permission. This involves plenty of confidential information. Once revealed, it will strike a fatal blow to our company's website security. The unauthorized and infringing copy can be found at:
-
-[REPOSITORY URL]
-
-This letter is official notification under the Millennium Copyright Act ("DMCA"), and we seek the removal of the aforementioned infringing repository as well as all forks from your servers immediately to cease any further posting of infringing.
-
-We are providing this notice in good faith and with the reasonable belief that rights my company owns are being infringed. Under penalty of perjury we certify that the information contained in the notification is both true and accurate, and we have the authority to act on behalf of the owner of the copyright(s) involved.
-
-Should you wish to discuss this with me please contact me directly.
-
-Thank you.
-
-Address [private]\
-City, State Zip [private]\
-Phone [private]\
-E-mail [private]
+Your takedown notice content here...
