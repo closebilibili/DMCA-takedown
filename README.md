@@ -6,10 +6,10 @@ For our loved Bilibili, Let's make this world a better place by helping bilibili
 
 Time: Monday 22 April 2019 (Afternoon)
 
-Instructions to candidates
-• Do not turn over this examination paper until instructed to do so.
-• Choose one task. Each task is worth [25 marks].
-• The maximum mark for this examination paper is [25 marks].
+~~Instructions to candidates~~
+* ~~Do not turn over this examination paper until instructed to do so.~~
+* ~~Choose one task. Each task is worth [25 marks].~~
+* ~~The maximum mark for this examination paper is [25 marks].~~
 
 Complete one of the following tasks. Write 250 to 400 words.
 
