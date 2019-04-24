@@ -2,9 +2,9 @@
 
 我们要用我们自己的方法一起守护B站，帮B站给GitHub写一个更好的邮件！
 
-For our loved Bilibili, Let's make this world a better place by helping bilibili write his email to GitHub!
+For our loved Bilibili, let's make this world a better place by helping Bilibili write his email to GitHub!
 
-# Requierment:
+# Requirement
 
 时间：2019年4月22日 星期一 下午
 
@@ -21,18 +21,18 @@ Complete the following tasks. Write 250 to 400 words. English, Chinese or Japane
 
 5. 科学与技术
 
-   你的其中一位被996工作制压迫的程序员把你站后台源码上传上了GitHub。现在过了2小时，写一个邮件给GitHub，描述现状，并请求GitHub把后台源码删了，以及你从这次经历中学到了什么。
+   你的其中一位被 996 工作制压迫的程序员把你站后台源码上传上了 GitHub。现在过了 2 小时，写一封邮件给 GitHub，描述现状，并请求 GitHub 把后台源码删了，以及你从这次经历中学到了什么。
 
 5. Science and technology
 
-  One of your oppressed 996 program engineer has uploaded your backend source code to GitHub. Now that 2 hour is past, write a email to GitHub, describing the situation, ask GitHub to remove it, and what you have learned from this experience.
+   One of your oppressed 996 program engineers has uploaded your backend source code to GitHub. Now that 2 hours have passed, write an email to GitHub, describing the situation, ask GitHub to remove it, and what you have learned from this experience.
 
 
 # 参与
 
 1. Fork
 2. 在对应语言的文件夹中新建一个文件，命名为你的名字
-3. 根据以上要求写一个邮件
+3. 根据以上要求写一封邮件
 4. 发 pull request!
 
 参考资料: [Sample.md](Sample.md)
@@ -41,7 +41,7 @@ Complete the following tasks. Write 250 to 400 words. English, Chinese or Japane
 
 1. Fork
 2. Create a new file with your name in one of the folders according to language.
-3. Write a email based on the Requierment above
+3. Write an email based on the Requirement above
 4. Send a pull request!
 
 Sample: [Sample.md](Sample.md)
