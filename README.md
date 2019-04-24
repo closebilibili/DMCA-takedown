@@ -6,7 +6,7 @@ For our loved Bilibili, Let's make this world a better place by helping bilibili
 
 # Requierment:
 
-时间：2019年4月21日星期一 下午
+时间：2019年4月22日 星期一 下午
 
 Time: Monday 22 April 2019 (Afternoon)
 
