@@ -12,7 +12,7 @@ This letter is official notification under the Millennium Copyright Act ("DMCA")
 
 We are providing this notice in good faith and with the reasonable belief that rights my company owns are being infringed. Under penalty of perjury we certify that the information contained in the notification is both true and accurate, and we have the authority to act on behalf of the owner of the copyright(s) involved.
 
-Should you wish to discuss this with me please contact me directly.
+Should you wish to discuss this with us please contact us directly.
 
 Thank you.
 
