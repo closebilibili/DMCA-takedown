@@ -1,60 +1,39 @@
 # DMCA-takedown
 
-我们要用我们自己的方法一起守护B站，帮B站给GitHub写一个更好的邮件！
+:crossed_flags:
+**English**,
+[简体中文][ZH_CN],
+[日本語][JA_JP]
+
+
+[EN_US]:README.md
+[ZH_CN]:README.zh_cn.md
+[JA_JP]:README.ja_jp.md
 
 For our loved Bilibili, let's make this world a better place by helping Bilibili write his email to GitHub!
 
-# Requirements
+## Requirements
 
-时间：2019年4月22日 星期一 下午
+One of your oppressed 996 program engineers has uploaded your backend source code to GitHub. Now that 2 hours have passed, write an email to GitHub, describing the situation, ask GitHub to remove it, and what you have learned from this experience.
 
-Time: Monday 22 April 2019 (Afternoon)
+[Original edition](Sample.md)
 
-~~Instructions to candidates~~
-* ~~Do not turn over this examination paper until instructed to do so.~~
-* ~~Choose one task. Each task is worth [25 marks].~~
-* ~~The maximum mark for this examination paper is [25 marks].~~
-
-完成以下目标，写 250-400 字。中/英/日文皆可。
-
-Complete the following tasks. Write 250 to 400 words. English, Chinese or Japanese.
-
-5. 科学与技术
-
-   你的其中一位被 996 工作制压迫的程序员把你站后台源码上传上了 GitHub。现在过了 2 小时，写一封邮件给 GitHub，描述现状，并请求 GitHub 把后台源码删了，以及你从这次经历中学到了什么。
-
-5. Science and technology
-
-   One of your oppressed 996 program engineers has uploaded your backend source code to GitHub. Now that 2 hours have passed, write an email to GitHub, describing the situation, ask GitHub to remove it, and what you have learned from this experience.
-
-
-# 参与
-
-1. Fork
-2. 在对应语言的文件夹中新建一个文件，命名为你的名字
-3. 根据以上要求写一封邮件
-4. 发 pull request!
-
-参考资料: [Sample.md](Sample.md)
-
-# Contribution
+## Contribution
 
 1. Fork
 2. Create a new file with your name in one of the folders according to language.
 3. Write an email based on the Requirements above
 4. Send a pull request!
 
-Sample: [Sample.md](Sample.md)
+## All submissions
 
-# Emails
+Please attach your submission below
 
-[Sample](Sample.md)
-
-Add your new emails below
+For example: [Template](English/Template.md)
 
 [English/nce3xin.md](English/nce3xin.md)
 
-# Further reading
+## Further reading
 
 [DMCA Takedown Policy](https://help.github.com/en/articles/dmca-takedown-policy)
 
