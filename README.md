@@ -53,3 +53,11 @@ Sample: [Sample.md](Sample.md)
 Add your new emails below
 
 [English/nce3xin.md](English/nce3xin.md)
+
+# Further reading
+
+[DMCA Takedown Policy](https://help.github.com/en/articles/dmca-takedown-policy)
+
+[Guide to Submitting a DMCA Takedown Notice](https://help.github.com/en/articles/guide-to-submitting-a-dmca-takedown-notice)
+
+[Guide to Submitting a DMCA Counter Notice](https://help.github.com/en/articles/guide-to-submitting-a-dmca-counter-notice)
