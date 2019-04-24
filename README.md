@@ -31,7 +31,7 @@ Complete the following tasks. Write 250 to 400 words. English, Chinese or Japane
 # 参与
 
 1. Fork
-2. 新建一个文件，命名为你的名字
+2. 在对应语言的文件夹中新建一个文件，命名为你的名字
 3. 根据以上要求写一个邮件
 4. 发 pull request!
 
@@ -40,8 +40,8 @@ Complete the following tasks. Write 250 to 400 words. English, Chinese or Japane
 # Contribution
 
 1. Fork
-2. Create a new file with your name
-3. write a email based on the Requierment above
+2. Create a new file with your name in one of the folders according to language.
+3. Write a email based on the Requierment above
 4. Send a pull request!
 
 Sample: [Sample.md](Sample.md)
