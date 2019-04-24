@@ -4,7 +4,7 @@
 
 For our loved Bilibili, let's make this world a better place by helping Bilibili write his email to GitHub!
 
-# Requirement
+# Requirements
 
 时间：2019年4月22日 星期一 下午
 
@@ -41,7 +41,7 @@ Complete the following tasks. Write 250 to 400 words. English, Chinese or Japane
 
 1. Fork
 2. Create a new file with your name in one of the folders according to language.
-3. Write an email based on the Requirement above
+3. Write an email based on the Requirements above
 4. Send a pull request!
 
 Sample: [Sample.md](Sample.md)
