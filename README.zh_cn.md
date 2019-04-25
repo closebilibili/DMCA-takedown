@@ -1,4 +1,4 @@
-# 请求依据DCAM删除
+# 请求依据 DMCA 删除
 
 :crossed_flags:
 [English][EN_US],
