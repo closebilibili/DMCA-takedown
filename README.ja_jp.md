@@ -31,6 +31,7 @@
 ＜例＞
 * [日本語/テンプレート.md](日本語/テンプレート.md)
 * [English/nce3xin.md](English/nce3xin.md)
+* [English/sinofine.md](English/sinofine.md)
 
 ## 参考文献
 
