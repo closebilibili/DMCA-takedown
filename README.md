@@ -33,6 +33,8 @@ For example: [Template](English/Template.md)
 
 [English/nce3xin.md](English/nce3xin.md)
 
+[English/sinofine.md](English/sinofine.md)
+
 ## Further reading
 
 [DMCA Takedown Policy](https://help.github.com/en/articles/dmca-takedown-policy)
