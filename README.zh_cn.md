@@ -33,6 +33,8 @@
 
 [English/nce3xin.md](English/nce3xin.md)
 
+[English/sinofine.md](English/sinofine.md)
+
 ## 参考资料
 
 [DMCA删除政策(英)](https://help.github.com/en/articles/dmca-takedown-policy)
